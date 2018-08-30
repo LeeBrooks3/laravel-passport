@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4564c9688e160e03edf7ece07e1e6108",
+    "content-hash": "d570ba0608f5d3377499e7929e1ce375",
     "packages": [
         {
             "name": "defuse/php-encryption",
@@ -1722,16 +1722,16 @@
         },
         {
             "name": "leebrooks3/laravel",
-            "version": "v0.0.3",
+            "version": "v0.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/LeeBrooks3/laravel.git",
-                "reference": "491c130fa72780c7470ef8e4ef90a8fe4651eb85"
+                "reference": "e253a13e3608376fec19f638ebfceb0275b86201"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/LeeBrooks3/laravel/zipball/491c130fa72780c7470ef8e4ef90a8fe4651eb85",
-                "reference": "491c130fa72780c7470ef8e4ef90a8fe4651eb85",
+                "url": "https://api.github.com/repos/LeeBrooks3/laravel/zipball/e253a13e3608376fec19f638ebfceb0275b86201",
+                "reference": "e253a13e3608376fec19f638ebfceb0275b86201",
                 "shasum": ""
             },
             "require": {
@@ -1746,7 +1746,7 @@
                 "illuminate/routing": "^5.6",
                 "illuminate/support": "^5.6",
                 "illuminate/view": "^5.6",
-                "leebrooks3/php": "^0.0.4",
+                "leebrooks3/php": "^0.0.5",
                 "php": ">=7.1",
                 "ramsey/uuid": "^3.7"
             },
@@ -1783,31 +1783,31 @@
                 "php"
             ],
             "support": {
-                "source": "https://github.com/LeeBrooks3/laravel/tree/v0.0.3",
+                "source": "https://github.com/LeeBrooks3/laravel/tree/v0.0.4",
                 "issues": "https://github.com/LeeBrooks3/laravel/issues"
             },
-            "time": "2018-08-30T09:40:50+00:00"
+            "time": "2018-08-30T16:03:22+00:00"
         },
         {
             "name": "leebrooks3/laravel-oauth2-driver",
-            "version": "v0.0.3",
+            "version": "v0.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/LeeBrooks3/laravel-oauth2-driver.git",
-                "reference": "9646c1e513c91a342c629bd78adf43804ba93b86"
+                "reference": "1b245b5b0e28788bb5e8d8d81e1c3f85059eb3bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/LeeBrooks3/laravel-oauth2-driver/zipball/9646c1e513c91a342c629bd78adf43804ba93b86",
-                "reference": "9646c1e513c91a342c629bd78adf43804ba93b86",
+                "url": "https://api.github.com/repos/LeeBrooks3/laravel-oauth2-driver/zipball/1b245b5b0e28788bb5e8d8d81e1c3f85059eb3bb",
+                "reference": "1b245b5b0e28788bb5e8d8d81e1c3f85059eb3bb",
                 "shasum": ""
             },
             "require": {
                 "illuminate/auth": "^5.6",
                 "illuminate/contracts": "^5.6",
                 "illuminate/support": "^5.6",
-                "leebrooks3/laravel": "^0.0.3",
-                "leebrooks3/php-oauth2-client": "^0.0.3",
+                "leebrooks3/laravel": "^0.0.4",
+                "leebrooks3/php-oauth2-client": "^0.0.5",
                 "php": ">=7.1"
             },
             "require-dev": {
@@ -1844,23 +1844,23 @@
                 "passport"
             ],
             "support": {
-                "source": "https://github.com/LeeBrooks3/laravel-oauth2-driver/tree/v0.0.3",
+                "source": "https://github.com/LeeBrooks3/laravel-oauth2-driver/tree/v0.0.4",
                 "issues": "https://github.com/LeeBrooks3/laravel-oauth2-driver/issues"
             },
-            "time": "2018-08-30T14:42:36+00:00"
+            "time": "2018-08-30T16:17:48+00:00"
         },
         {
             "name": "leebrooks3/php",
-            "version": "v0.0.4",
+            "version": "v0.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/LeeBrooks3/php.git",
-                "reference": "d1724b1c9eabb4544cbd59509aebcc349185510f"
+                "reference": "ed40ab506fca246b2bab64cd7b9a690221844e92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/LeeBrooks3/php/zipball/d1724b1c9eabb4544cbd59509aebcc349185510f",
-                "reference": "d1724b1c9eabb4544cbd59509aebcc349185510f",
+                "url": "https://api.github.com/repos/LeeBrooks3/php/zipball/ed40ab506fca246b2bab64cd7b9a690221844e92",
+                "reference": "ed40ab506fca246b2bab64cd7b9a690221844e92",
                 "shasum": ""
             },
             "require": {
@@ -1891,27 +1891,27 @@
                 "php"
             ],
             "support": {
-                "source": "https://github.com/LeeBrooks3/php/tree/v0.0.4",
+                "source": "https://github.com/LeeBrooks3/php/tree/v0.0.5",
                 "issues": "https://github.com/LeeBrooks3/php/issues"
             },
-            "time": "2018-08-29T21:30:25+00:00"
+            "time": "2018-08-30T15:37:52+00:00"
         },
         {
             "name": "leebrooks3/php-oauth2-client",
-            "version": "v0.0.3",
+            "version": "v0.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/LeeBrooks3/php-oauth2-client.git",
-                "reference": "7f3d8a4719d6ee911576d7b72cf3a8833631ad0c"
+                "reference": "c4a58d8e827d8ebd492e266ba9d06ff0643b962d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/LeeBrooks3/php-oauth2-client/zipball/7f3d8a4719d6ee911576d7b72cf3a8833631ad0c",
-                "reference": "7f3d8a4719d6ee911576d7b72cf3a8833631ad0c",
+                "url": "https://api.github.com/repos/LeeBrooks3/php-oauth2-client/zipball/c4a58d8e827d8ebd492e266ba9d06ff0643b962d",
+                "reference": "c4a58d8e827d8ebd492e266ba9d06ff0643b962d",
                 "shasum": ""
             },
             "require": {
-                "leebrooks3/php": "^0.0.4",
+                "leebrooks3/php": "^0.0.5",
                 "php": ">=7.1"
             },
             "require-dev": {
@@ -1939,10 +1939,10 @@
                 "php"
             ],
             "support": {
-                "source": "https://github.com/LeeBrooks3/php-oauth2-client/tree/v0.0.3",
+                "source": "https://github.com/LeeBrooks3/php-oauth2-client/tree/v0.0.5",
                 "issues": "https://github.com/LeeBrooks3/php-oauth2-client/issues"
             },
-            "time": "2018-08-30T14:37:48+00:00"
+            "time": "2018-08-30T16:15:47+00:00"
         },
         {
             "name": "nesbot/carbon",
