@@ -29,11 +29,11 @@ class ServiceProvider extends PassportServiceProvider
         /** @var AuthManager $auth */
         $auth = $this->app->make(AuthManager::class);
 
-        $auth->provider('api_repository', function (Application $app, array $config) {
+        $auth->provider('passport_api_repository', function (Application $app, array $config) {
             return $this->makeApiUserProvider($app, $config);
         });
 
-        $auth->provider('database_repository', function (Application $app, array $config) {
+        $auth->provider('passport_database_repository', function (Application $app, array $config) {
             return $this->makeDatabaseUserProvider($app, $config);
         });
 
@@ -68,9 +68,9 @@ class ServiceProvider extends PassportServiceProvider
         $config = $this->app->make(Config::class);
         $provider = $config->get('auth.providers.users.driver');
 
-        if ($provider === 'api_repository') {
+        if ($provider === 'passport_api_repository') {
             return $this->makeApiUserProvider($this->app, $config->get('auth.providers.users'));
-        } elseif ($provider === 'database_repository') {
+        } elseif ($provider === 'passport_database_repository') {
             return $this->makeDatabaseUserProvider($this->app, $config->get('auth.providers.users'));
         }
 
