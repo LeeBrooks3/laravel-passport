@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d570ba0608f5d3377499e7929e1ce375",
+    "content-hash": "a4e48fecf0c0f00907a69603813f0277",
     "packages": [
         {
             "name": "defuse/php-encryption",
@@ -1722,16 +1722,16 @@
         },
         {
             "name": "leebrooks3/laravel",
-            "version": "v0.0.4",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/LeeBrooks3/laravel.git",
-                "reference": "e253a13e3608376fec19f638ebfceb0275b86201"
+                "reference": "7ad2b88eca4a69fc29863fc69714c5699f848d1b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/LeeBrooks3/laravel/zipball/e253a13e3608376fec19f638ebfceb0275b86201",
-                "reference": "e253a13e3608376fec19f638ebfceb0275b86201",
+                "url": "https://api.github.com/repos/LeeBrooks3/laravel/zipball/7ad2b88eca4a69fc29863fc69714c5699f848d1b",
+                "reference": "7ad2b88eca4a69fc29863fc69714c5699f848d1b",
                 "shasum": ""
             },
             "require": {
@@ -1746,7 +1746,7 @@
                 "illuminate/routing": "^5.6",
                 "illuminate/support": "^5.6",
                 "illuminate/view": "^5.6",
-                "leebrooks3/php": "^0.0.5",
+                "leebrooks3/php": "dev-master",
                 "php": ">=7.1",
                 "ramsey/uuid": "^3.7"
             },
@@ -1783,31 +1783,31 @@
                 "php"
             ],
             "support": {
-                "source": "https://github.com/LeeBrooks3/laravel/tree/v0.0.4",
+                "source": "https://github.com/LeeBrooks3/laravel/tree/master",
                 "issues": "https://github.com/LeeBrooks3/laravel/issues"
             },
-            "time": "2018-08-30T16:03:22+00:00"
+            "time": "2018-09-03T17:56:09+00:00"
         },
         {
             "name": "leebrooks3/laravel-oauth2-driver",
-            "version": "v0.0.4",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/LeeBrooks3/laravel-oauth2-driver.git",
-                "reference": "1b245b5b0e28788bb5e8d8d81e1c3f85059eb3bb"
+                "reference": "4f27942ffe0e176d3183e37a4fb474eb49c50809"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/LeeBrooks3/laravel-oauth2-driver/zipball/1b245b5b0e28788bb5e8d8d81e1c3f85059eb3bb",
-                "reference": "1b245b5b0e28788bb5e8d8d81e1c3f85059eb3bb",
+                "url": "https://api.github.com/repos/LeeBrooks3/laravel-oauth2-driver/zipball/4f27942ffe0e176d3183e37a4fb474eb49c50809",
+                "reference": "4f27942ffe0e176d3183e37a4fb474eb49c50809",
                 "shasum": ""
             },
             "require": {
                 "illuminate/auth": "^5.6",
                 "illuminate/contracts": "^5.6",
                 "illuminate/support": "^5.6",
-                "leebrooks3/laravel": "^0.0.4",
-                "leebrooks3/php-oauth2-client": "^0.0.5",
+                "leebrooks3/laravel": "dev-master",
+                "leebrooks3/php-oauth2-client": "dev-master",
                 "php": ">=7.1"
             },
             "require-dev": {
@@ -1844,14 +1844,14 @@
                 "passport"
             ],
             "support": {
-                "source": "https://github.com/LeeBrooks3/laravel-oauth2-driver/tree/v0.0.4",
+                "source": "https://github.com/LeeBrooks3/laravel-oauth2-driver/tree/master",
                 "issues": "https://github.com/LeeBrooks3/laravel-oauth2-driver/issues"
             },
-            "time": "2018-08-30T16:17:48+00:00"
+            "time": "2018-09-03T18:02:36+00:00"
         },
         {
             "name": "leebrooks3/php",
-            "version": "v0.0.5",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/LeeBrooks3/php.git",
@@ -1898,20 +1898,20 @@
         },
         {
             "name": "leebrooks3/php-oauth2-client",
-            "version": "v0.0.5",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/LeeBrooks3/php-oauth2-client.git",
-                "reference": "c4a58d8e827d8ebd492e266ba9d06ff0643b962d"
+                "reference": "1e03ef7410466021e514d30bcf0437dbfbea97b5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/LeeBrooks3/php-oauth2-client/zipball/c4a58d8e827d8ebd492e266ba9d06ff0643b962d",
-                "reference": "c4a58d8e827d8ebd492e266ba9d06ff0643b962d",
+                "url": "https://api.github.com/repos/LeeBrooks3/php-oauth2-client/zipball/1e03ef7410466021e514d30bcf0437dbfbea97b5",
+                "reference": "1e03ef7410466021e514d30bcf0437dbfbea97b5",
                 "shasum": ""
             },
             "require": {
-                "leebrooks3/php": "^0.0.5",
+                "leebrooks3/php": "dev-master",
                 "php": ">=7.1"
             },
             "require-dev": {
@@ -1939,10 +1939,10 @@
                 "php"
             ],
             "support": {
-                "source": "https://github.com/LeeBrooks3/php-oauth2-client/tree/v0.0.5",
+                "source": "https://github.com/LeeBrooks3/php-oauth2-client/tree/master",
                 "issues": "https://github.com/LeeBrooks3/php-oauth2-client/issues"
             },
-            "time": "2018-08-30T16:15:47+00:00"
+            "time": "2018-09-03T18:00:05+00:00"
         },
         {
             "name": "nesbot/carbon",
@@ -4843,7 +4843,9 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "leebrooks3/laravel-oauth2-driver": 20
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
