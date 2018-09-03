@@ -1794,12 +1794,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/LeeBrooks3/laravel-oauth2-driver.git",
-                "reference": "4f27942ffe0e176d3183e37a4fb474eb49c50809"
+                "reference": "69d02bad60b6f5ba58f680fb25335c7f3ed71d41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/LeeBrooks3/laravel-oauth2-driver/zipball/4f27942ffe0e176d3183e37a4fb474eb49c50809",
-                "reference": "4f27942ffe0e176d3183e37a4fb474eb49c50809",
+                "url": "https://api.github.com/repos/LeeBrooks3/laravel-oauth2-driver/zipball/69d02bad60b6f5ba58f680fb25335c7f3ed71d41",
+                "reference": "69d02bad60b6f5ba58f680fb25335c7f3ed71d41",
                 "shasum": ""
             },
             "require": {
@@ -1847,7 +1847,7 @@
                 "source": "https://github.com/LeeBrooks3/laravel-oauth2-driver/tree/master",
                 "issues": "https://github.com/LeeBrooks3/laravel-oauth2-driver/issues"
             },
-            "time": "2018-09-03T18:02:36+00:00"
+            "time": "2018-09-03T20:42:44+00:00"
         },
         {
             "name": "leebrooks3/php",
